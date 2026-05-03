@@ -24,7 +24,7 @@ Machine Learning / AI - Scikit-learn, PyTorch, TensorFlow, XGBoost, RAG, LangCha
 Computer Vision - YOLOv8, OpenCV, Image Processing, Real-time Detection  
 Backend - FastAPI, Flask, REST APIs  
 Frontend - React, Next.js, Tailwind CSS  
-Databases & Tools - ChromaDB, Supabase, Firebase, Git, Docker  
+Databases & Tools - ChromaDB, Supabase, Firebase, Git & Github, Docker, Jupyter, Colab
 
 ---
 ## Contact
